@@ -1,8 +1,5 @@
-.App {
-  text-align: center;
-}
-
 .App-header {
+  text-align: center;
   height: 150px;
   padding: 20px;
 }
@@ -20,3 +17,5 @@
   font-size: 11px;
   text-align: left;
 }
+
+
