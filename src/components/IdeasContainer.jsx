@@ -13,7 +13,6 @@ class IdeasContainer extends Component {
     componentDidMount() {
         axios.get('http://localhost:3001/api/v1/ideas')
             .then(response => {
-                console.log(response)
                 this.setState({ideas: response.data})
             })
             .catch(error => console.log(error))
