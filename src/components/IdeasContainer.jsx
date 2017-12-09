@@ -38,9 +38,11 @@ class IdeasContainer extends Component {
                     </button>
                 </div>
                 {this.state.ideas.map((idea) => {
-                    return (
-                        <Idea idea={idea} key={idea.id} />
-                    )
+                    if(this.state.editingIdeaId === idea.id) {
+                        return(<IdeaForm idea={idea} key={idea.id} />)
+                    } else {
+                        return(<Idea idea={idea} key={idea.id} />)
+                    }
                 })}
             </div>
         );
