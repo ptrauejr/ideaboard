@@ -10,7 +10,10 @@ class IdeaForm extends Component {
         }
     }
 
-    handleInput = (e) => {this.setState({[e.target.name]: e.target.value})}
+    handleInput = (e) => {
+        this.props.resetNotification()
+        this.setState({[e.target.name]: e.target.value})
+    }
 
     handleBlur = () => {
         const idea = { title: this.state.title, body: this.state.body }
@@ -22,7 +25,7 @@ class IdeaForm extends Component {
             this.props.updateIdea(response.data)
         }).catch(error => console.log(error))
     }
-    
+
     render() {
         return (
             <div className="tile">
