@@ -1,9 +1,12 @@
-import React from 'react'
+import React, { Component } from 'react'
 
-const Idea = ({idea}) =>
-    <div className="tile">
-        <h4>{idea.title}</h4>
-        <p>{idea.body}</p>
-    </div>
+class Idea extends Compondent {
+    render() {
+        <div className="tile">
+            <h4>{idea.title}</h4>
+            <p>{idea.body}</p>
+        </div>
+    }
+}
 
 export default Idea
