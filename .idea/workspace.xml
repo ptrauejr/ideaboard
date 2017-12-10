@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef9ffb75-0298-4876-981f-197e5ca6902d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/IdeaForm.jsx" afterPath="$PROJECT_DIR$/src/components/IdeaForm.jsx" />
       <change beforePath="$PROJECT_DIR$/src/components/IdeasContainer.jsx" afterPath="$PROJECT_DIR$/src/components/IdeasContainer.jsx" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -44,8 +43,8 @@
       <file leaf-file-name="IdeasContainer.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/IdeasContainer.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+            <state relative-caret-position="555">
+              <caret line="37" column="68" lean-forward="false" selection-start-line="37" selection-start-column="68" selection-end-line="37" selection-end-column="68" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -60,10 +59,10 @@
               <caret line="21" column="46" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
-                <marker date="1512864568973" expanded="true" signature="794:1252" ph="..." />
-                <marker date="1512864568973" expanded="true" signature="842:1233" ph="..." />
-                <marker date="1512864568973" expanded="true" signature="941:1022" ph="..." />
-                <marker date="1512864568973" expanded="true" signature="1116:1209" ph="..." />
+                <marker date="1512865052776" expanded="true" signature="794:1252" ph="..." />
+                <marker date="1512865052776" expanded="true" signature="842:1233" ph="..." />
+                <marker date="1512865052776" expanded="true" signature="941:1022" ph="..." />
+                <marker date="1512865052776" expanded="true" signature="1116:1209" ph="..." />
               </folding>
             </state>
           </provider>
@@ -73,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/Idea.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -194,17 +193,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512345774699</updated>
-      <workItem from="1512345776748" duration="9512000" />
+      <workItem from="1512345776748" duration="9938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9512000" />
+    <option name="totallyTimeSpent" value="9938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="266" y="23" width="1400" height="934" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -258,7 +258,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/Idea.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -277,18 +277,18 @@
           <caret line="21" column="46" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
-            <marker date="1512864568973" expanded="true" signature="794:1252" ph="..." />
-            <marker date="1512864568973" expanded="true" signature="842:1233" ph="..." />
-            <marker date="1512864568973" expanded="true" signature="941:1022" ph="..." />
-            <marker date="1512864568973" expanded="true" signature="1116:1209" ph="..." />
+            <marker date="1512865052776" expanded="true" signature="794:1252" ph="..." />
+            <marker date="1512865052776" expanded="true" signature="842:1233" ph="..." />
+            <marker date="1512865052776" expanded="true" signature="941:1022" ph="..." />
+            <marker date="1512865052776" expanded="true" signature="1116:1209" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/IdeasContainer.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        <state relative-caret-position="555">
+          <caret line="37" column="68" lean-forward="false" selection-start-line="37" selection-start-column="68" selection-end-line="37" selection-end-column="68" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
