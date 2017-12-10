@@ -19,6 +19,7 @@ class IdeaForm extends Component {
             {idea: idea}
         ).then(response => {
             console.log(response)
+            this.props.updateIdea(response.data)
         }).catch(error => console.log(error))
     }
     
