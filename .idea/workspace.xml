@@ -53,9 +53,14 @@
       <file leaf-file-name="IdeaForm.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/IdeaForm.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="71" lean-forward="false" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
-              <folding />
+            <state relative-caret-position="15">
+              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+              <folding>
+                <marker date="1512864429304" expanded="true" signature="745:1203" ph="..." />
+                <marker date="1512864429304" expanded="true" signature="793:1184" ph="..." />
+                <marker date="1512864429304" expanded="true" signature="892:973" ph="..." />
+                <marker date="1512864429304" expanded="true" signature="1067:1160" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,9 +114,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="266" />
-    <option name="y" value="24" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
-    <option name="height" value="933" />
+    <option name="height" value="934" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -185,15 +190,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512345774699</updated>
-      <workItem from="1512345776748" duration="8685000" />
+      <workItem from="1512345776748" duration="9074000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8685000" />
+    <option name="totallyTimeSpent" value="9074000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="266" y="24" width="1400" height="933" extended-state="0" />
+    <frame x="266" y="23" width="1400" height="934" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -255,14 +260,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/IdeasContainer.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
@@ -271,11 +268,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/IdeasContainer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/IdeaForm.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="71" lean-forward="false" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
-          <folding />
+        <state relative-caret-position="15">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding>
+            <marker date="1512864429304" expanded="true" signature="745:1203" ph="..." />
+            <marker date="1512864429304" expanded="true" signature="793:1184" ph="..." />
+            <marker date="1512864429304" expanded="true" signature="892:973" ph="..." />
+            <marker date="1512864429304" expanded="true" signature="1067:1160" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
